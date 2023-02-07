@@ -6,4 +6,4 @@ function evenOdd(str){
         return "odd";
     }
 }
-console.log(evenOdd("Batch7"));
+// console.log(evenOdd("Batch7"));
